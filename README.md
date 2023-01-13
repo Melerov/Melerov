@@ -42,5 +42,5 @@
 <h2 align="center">🤝 Socials</h2>
 <p align="center">
     <a href="https://t.me/melerov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-    <a href="https://vk.com/melerov"><img src="https://img.shields.io/badge/vk-%234680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" /></a>
+    <a href="https://vk.me/melerov"><img src="https://img.shields.io/badge/vk-%234680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" /></a>
 </p>
