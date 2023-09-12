@@ -2,11 +2,11 @@
     <img src="https://github.com/Melerov/Melerov/blob/main/header.svg?raw=true" />
 </p>
 <h2 align="center">🧑‍💻 About me</h2>
-<p align="center">Java developer/Web-designer</p>
+<p align="center">Developer/Web-designer</p>
 <h2 align="center">🚀 Skills</h2>
 <h3 align="center">Languages</h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 <h3 align="center">Web</h3>
 <p align="center">
