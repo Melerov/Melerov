@@ -2,7 +2,7 @@
     <img src="https://github.com/Melerov/Melerov/blob/main/header.svg?raw=true" />
 </p>
 <h2 align="center">🧑‍💻 About me</h2>
-<p align="center">Developer/Web-designer</p>
+<p align="center">Developer / Web-designer</p>
 <h2 align="center">🚀 Skills</h2>
 <h3 align="center">Languages</h3>
 <p align="center">
