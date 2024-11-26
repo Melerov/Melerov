@@ -6,7 +6,7 @@
 <h2 align="center">🚀 Skills</h2>
 <h3 align="center">Languages</h3>
 <p align="center">
-    
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 <h3 align="center">Web</h3>
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 <h3 align="center">Frameworks</h3>
 <p align="center">
-    
+    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 <h3 align="center">Databases</h3>
 <p align="center">
@@ -24,10 +24,9 @@
 <h3 align="center">💻 Software and tools</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 <h3 align="center">🎓 Achievements and education </h3>
 <p align="center">
